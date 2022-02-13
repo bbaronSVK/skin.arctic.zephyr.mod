@@ -288,14 +288,6 @@ msgctxt "#31068"
 msgid "Random Artists"
 msgstr "랜덤 아티스트"
 
-msgctxt "#31069"
-msgid "Plot-align: left"
-msgstr "줄거리 정렬: 왼쪽"
-
-msgctxt "#31070"
-msgid "Hide votes"
-msgstr "평점 숨김"
-
 msgctxt "#31071"
 msgid "Show fanart/landscape view"
 msgstr "팬아트 / 가로보기 표시"
@@ -727,10 +719,6 @@ msgstr "설정 바로 가기를 제거 하시겠습니까?[CR]이 바로 가기�
 msgctxt "#31178"
 msgid "Hub items"
 msgstr "허브 항목"
-
-msgctxt "#31179"
-msgid "Show clearlogo"
-msgstr "클리어로고 표시"
 
 msgctxt "#31180"
 msgid "Cast of"
@@ -1236,10 +1224,6 @@ msgctxt "#31305"
 msgid "HUBs"
 msgstr "허브"
 
-msgctxt "#31306"
-msgid "Global options"
-msgstr "스킨 전체에 적용되는 설정"
-
 msgctxt "#31307"
 msgid "ClearArt"
 msgstr "클리어아트"
@@ -1328,10 +1312,6 @@ msgctxt "#31328"
 msgid "Deeper shadows"
 msgstr "진한 테두리 그림자 사용"
 
-msgctxt "#31329"
-msgid "ClearArt"
-msgstr "클리어아트"
-
 msgctxt "#31330"
 msgid "ClearLogo"
 msgstr "클리어로고"
@@ -1388,10 +1368,6 @@ msgctxt "#31343"
 msgid "Fixed list"
 msgstr "고정 목록"
 
-msgctxt "#31344"
-msgid "ClearLogo"
-msgstr "클리어로고"
-
 msgctxt "#31345"
 msgid "Texture/Icon on infopage"
 msgstr "정보 페이지 텍스처 / 아이콘"
@@ -1416,17 +1392,9 @@ msgctxt "#31350"
 msgid "Record Label Icons"
 msgstr "녹화 라벨 아이콘"
 
-msgctxt "#31351"
-msgid "Show scrollbar"
-msgstr "스크롤바 표시하기"
-
 msgctxt "#31352"
 msgid "Switch to full screen mode when music starts playing"
 msgstr "음악 재생이 시작되면 전체 화면 모드로 전환"
-
-msgctxt "#31353"
-msgid "Hide lyrics contrast optimization"
-msgstr "가사 대비 최적화 숨김"
 
 msgctxt "#31354"
 msgid "Animate fanart/slideshow"
@@ -1771,10 +1739,6 @@ msgstr "장르 포스터"
 msgctxt "#31439"
 msgid "Chapter markers"
 msgstr "챕터 마커"
-
-msgctxt "#31440"
-msgid "Audio data"
-msgstr "오디오 데이터"
 
 msgctxt "#31441"
 msgid "RottenTomatoes & Metacritic"
@@ -2480,17 +2444,73 @@ msgctxt "#31658"
 msgid "Now playing"
 msgstr ""
 
-msgctxt "#31659"
-msgid "On up, show player controls"
-msgstr ""
-
-msgctxt "#31661"
-msgid "On right, show player controls"
-msgstr ""
-
 msgctxt "#31663"
 msgid "Now playing..."
 msgstr ""
+
+msgctxt "#31664"
+msgid "User rating overrides"
+msgstr ""
+
+msgctxt "#31666"
+msgid "Star rating and value"
+msgstr ""
+
+msgctxt "#31667"
+msgid "Animated artwork"
+msgstr ""
+
+msgctxt "#31668"
+msgid "Path to additional animated posters"
+msgstr ""
+
+msgctxt "#31670"
+msgid "Show player controls"
+msgstr ""
+
+msgctxt "#31671"
+msgid "On right"
+msgstr ""
+
+msgctxt "#31672"
+msgid "On up"
+msgstr ""
+
+#~ msgctxt "#31179"
+#~ msgid "Show clearlogo"
+#~ msgstr "클리어로고 표시"
+
+#~ msgctxt "#31306"
+#~ msgid "Global options"
+#~ msgstr "스킨 전체에 적용되는 설정"
+
+#~ msgctxt "#31329"
+#~ msgid "ClearArt"
+#~ msgstr "클리어아트"
+
+#~ msgctxt "#31344"
+#~ msgid "ClearLogo"
+#~ msgstr "클리어로고"
+
+#~ msgctxt "#31351"
+#~ msgid "Show scrollbar"
+#~ msgstr "스크롤바 표시하기"
+
+#~ msgctxt "#31353"
+#~ msgid "Hide lyrics contrast optimization"
+#~ msgstr "가사 대비 최적화 숨김"
+
+#~ msgctxt "#31440"
+#~ msgid "Audio data"
+#~ msgstr "오디오 데이터"
+
+#~ msgctxt "#31069"
+#~ msgid "Plot-align: left"
+#~ msgstr "줄거리 정렬: 왼쪽"
+
+#~ msgctxt "#31070"
+#~ msgid "Hide votes"
+#~ msgstr "평점 숨김"
 
 #~ msgctxt "#31055"
 #~ msgid "In Progress"

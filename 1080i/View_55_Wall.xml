@@ -142,7 +142,7 @@
             <height>50</height>
             <font>Tiny</font>
             <align>right</align>
-            <textcolor>Light1</textcolor>
+            <textcolor>Light2</textcolor>
             <label>$VAR[View55SubLabel]</label>
         </control>
     </include>
@@ -309,7 +309,7 @@
                         <align>right</align>
                         <textcolor>Dark2</textcolor>
                         <selectedcolor>Dark2</selectedcolor>
-                        <label>$INFO[ListItem.Rating]</label>
+                        <label>$VAR[RatingLabel]</label>
                     </control>
                     <control type="label">
                         <font>Mini</font>
@@ -364,7 +364,7 @@
                         <align>right</align>
                         <textcolor>Dark2</textcolor>
                         <selectedcolor>Dark2</selectedcolor>
-                        <label>$INFO[ListItem.Rating]</label>
+                        <label>$VAR[RatingLabel]</label>
                     </control>
                     <control type="label">
                         <font>Mini</font>

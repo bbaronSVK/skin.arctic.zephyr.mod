@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: XBMC Skins\n"
 "Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-01-11 14:54+0000\n"
+"PO-Revision-Date: 2022-02-06 19:59+0000\n"
 "Last-Translator: beatmasterRS <danysahne333@yahoo.de>\n"
 "Language-Team: German <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-arctic-zephyr-mod/de_de/>\n"
 "Language: de_de\n"
@@ -289,14 +289,6 @@ msgctxt "#31068"
 msgid "Random Artists"
 msgstr "Zufällige Interpreten"
 
-msgctxt "#31069"
-msgid "Plot-align: left"
-msgstr "Handlungs-Ausrichtung: links"
-
-msgctxt "#31070"
-msgid "Hide votes"
-msgstr "Bewertung/Stimmen ausblenden"
-
 msgctxt "#31071"
 msgid "Show fanart/landscape view"
 msgstr "Fanart/Landscape-Ansicht"
@@ -527,7 +519,7 @@ msgstr "Standard"
 
 msgctxt "#31128"
 msgid "Rating stars (media flags section)"
-msgstr "Sternebewertung (Media Flags-Abschnitt)"
+msgstr "Sterne-Bewertung (Media Flags-Abschnitt)"
 
 msgctxt "#31129"
 msgid "MPAA rating (media flags section)"
@@ -543,7 +535,7 @@ msgstr "Akzente, Highlights, Fokus-Buttons"
 
 msgctxt "#31132"
 msgid "Userrating (media flags section)"
-msgstr "Benutzerbewertung (Media Flags-Abschnitt)"
+msgstr "Persönliche Bewertung (Media Flags-Abschnitt)"
 
 msgctxt "#31133"
 msgid "Hide watched"
@@ -728,10 +720,6 @@ msgstr "Ganz sicher, dass die Verknüpfung zu den Einstellunegn gelöscht werden
 msgctxt "#31178"
 msgid "Hub items"
 msgstr "Hub-Einträge"
-
-msgctxt "#31179"
-msgid "Show clearlogo"
-msgstr "Clear-Logo anzeigen"
 
 msgctxt "#31180"
 msgid "Cast of"
@@ -1237,10 +1225,6 @@ msgctxt "#31305"
 msgid "HUBs"
 msgstr "HUBs"
 
-msgctxt "#31306"
-msgid "Global options"
-msgstr "Globale Optionen"
-
 msgctxt "#31307"
 msgid "ClearArt"
 msgstr "Clear-Art"
@@ -1329,10 +1313,6 @@ msgctxt "#31328"
 msgid "Deeper shadows"
 msgstr "Tiefere Schatten"
 
-msgctxt "#31329"
-msgid "ClearArt"
-msgstr "Clear-Art"
-
 msgctxt "#31330"
 msgid "ClearLogo"
 msgstr "Clear-Logo"
@@ -1389,10 +1369,6 @@ msgctxt "#31343"
 msgid "Fixed list"
 msgstr "Fixierte Liste"
 
-msgctxt "#31344"
-msgid "ClearLogo"
-msgstr "Clear-Logo"
-
 msgctxt "#31345"
 msgid "Texture/Icon on infopage"
 msgstr "Texture/Icon auf Infoseite"
@@ -1417,17 +1393,9 @@ msgctxt "#31350"
 msgid "Record Label Icons"
 msgstr "Plattenlabel-Symbole"
 
-msgctxt "#31351"
-msgid "Show scrollbar"
-msgstr "Zeige Scrollleiste"
-
 msgctxt "#31352"
 msgid "Switch to full screen mode when music starts playing"
 msgstr "In den Vollbildmodus wechseln, sobald Musik abgespielt wird"
-
-msgctxt "#31353"
-msgid "Hide lyrics contrast optimization"
-msgstr "Songtext Kontrast Optimierung ausblenden"
 
 msgctxt "#31354"
 msgid "Animate fanart/slideshow"
@@ -1772,10 +1740,6 @@ msgstr "Genre-Poster"
 msgctxt "#31439"
 msgid "Chapter markers"
 msgstr "Kapitelmarkierungen"
-
-msgctxt "#31440"
-msgid "Audio data"
-msgstr "Audiodaten"
 
 msgctxt "#31441"
 msgid "RottenTomatoes & Metacritic"
@@ -2481,17 +2445,81 @@ msgctxt "#31658"
 msgid "Now playing"
 msgstr "Gerade läuft"
 
-msgctxt "#31659"
-msgid "On up, show player controls"
-msgstr "Bei nach oben, Player-Bedienelemente anzeigen"
-
-msgctxt "#31661"
-msgid "On right, show player controls"
-msgstr "Bei nach rechts, Player-Bedienelemente anzeigen"
-
 msgctxt "#31663"
 msgid "Now playing..."
 msgstr "Läuft gerade..."
+
+msgctxt "#31664"
+msgid "User rating overrides"
+msgstr "Persönliche Bewertung hat Priorität vor"
+
+msgctxt "#31666"
+msgid "Star rating and value"
+msgstr "Sterne-Bewertung und Wert"
+
+msgctxt "#31667"
+msgid "Animated artwork"
+msgstr "Animiertes Artwork"
+
+msgctxt "#31668"
+msgid "Path to additional animated posters"
+msgstr "Pfad zu zusätzlichen animierten Postern"
+
+msgctxt "#31670"
+msgid "Show player controls"
+msgstr "Player-Bedienelemente anzeigen"
+
+msgctxt "#31671"
+msgid "On right"
+msgstr "Bei nach rechts"
+
+msgctxt "#31672"
+msgid "On up"
+msgstr "Bei nach oben"
+
+#~ msgctxt "#31179"
+#~ msgid "Show clearlogo"
+#~ msgstr "Clear-Logo anzeigen"
+
+#~ msgctxt "#31306"
+#~ msgid "Global options"
+#~ msgstr "Globale Optionen"
+
+#~ msgctxt "#31329"
+#~ msgid "ClearArt"
+#~ msgstr "Clear-Art"
+
+#~ msgctxt "#31344"
+#~ msgid "ClearLogo"
+#~ msgstr "Clear-Logo"
+
+#~ msgctxt "#31351"
+#~ msgid "Show scrollbar"
+#~ msgstr "Zeige Scrollleiste"
+
+#~ msgctxt "#31353"
+#~ msgid "Hide lyrics contrast optimization"
+#~ msgstr "Songtext Kontrast Optimierung ausblenden"
+
+#~ msgctxt "#31440"
+#~ msgid "Audio data"
+#~ msgstr "Audiodaten"
+
+#~ msgctxt "#31659"
+#~ msgid "On up, show player controls"
+#~ msgstr "Bei nach oben, Player-Bedienelemente anzeigen"
+
+#~ msgctxt "#31661"
+#~ msgid "On right, show player controls"
+#~ msgstr "Bei nach rechts, Player-Bedienelemente anzeigen"
+
+#~ msgctxt "#31069"
+#~ msgid "Plot-align: left"
+#~ msgstr "Handlungs-Ausrichtung: links"
+
+#~ msgctxt "#31070"
+#~ msgid "Hide votes"
+#~ msgstr "Bewertung/Stimmen ausblenden"
 
 #~ msgctxt "#31660"
 #~ msgid "On right, show player controls"
