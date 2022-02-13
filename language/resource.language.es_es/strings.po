@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: XBMC Skins\n"
 "Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-01-21 10:23+0000\n"
+"PO-Revision-Date: 2022-02-09 18:55+0000\n"
 "Last-Translator: Alfonso Cachero <alfonso.cachero@gmail.com>\n"
 "Language-Team: Spanish (Spain) <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-arctic-zephyr-mod/es_es/>\n"
 "Language: es_es\n"
@@ -288,14 +288,6 @@ msgstr "Álbumes aleatorios"
 msgctxt "#31068"
 msgid "Random Artists"
 msgstr "Artistas aleatorios"
-
-msgctxt "#31069"
-msgid "Plot-align: left"
-msgstr "Alinear argumento: izquierda"
-
-msgctxt "#31070"
-msgid "Hide votes"
-msgstr "Ocultar votos"
 
 msgctxt "#31071"
 msgid "Show fanart/landscape view"
@@ -729,10 +721,6 @@ msgctxt "#31178"
 msgid "Hub items"
 msgstr "Elementos hub"
 
-msgctxt "#31179"
-msgid "Show clearlogo"
-msgstr "Mostrar clearlogo"
-
 msgctxt "#31180"
 msgid "Cast of"
 msgstr "Reparto de"
@@ -1055,7 +1043,7 @@ msgstr "Fanart extra"
 
 msgctxt "#31260"
 msgid "Set weather icons"
-msgstr "Establecer iconos de tiempo"
+msgstr "Establecer iconos meteorológicos"
 
 msgctxt "#31261"
 msgid "Widget aspect"
@@ -1167,11 +1155,11 @@ msgstr "Moderno"
 
 msgctxt "#31288"
 msgid "Weather - daily"
-msgstr "Clima - diario"
+msgstr "Meteorología - diaria"
 
 msgctxt "#31289"
 msgid "Weather - hourly"
-msgstr "Clima - cada hora"
+msgstr "Meteorología - horaria"
 
 msgctxt "#31290"
 msgid "Open Player Process Information"
@@ -1236,10 +1224,6 @@ msgstr "Vistas"
 msgctxt "#31305"
 msgid "HUBs"
 msgstr "HUBs"
-
-msgctxt "#31306"
-msgid "Global options"
-msgstr "Opciones globales"
 
 msgctxt "#31307"
 msgid "ClearArt"
@@ -1329,10 +1313,6 @@ msgctxt "#31328"
 msgid "Deeper shadows"
 msgstr "Sombras más profundas"
 
-msgctxt "#31329"
-msgid "ClearArt"
-msgstr "ClearArt"
-
 msgctxt "#31330"
 msgid "ClearLogo"
 msgstr "ClearLogo"
@@ -1389,10 +1369,6 @@ msgctxt "#31343"
 msgid "Fixed list"
 msgstr "Lista fija"
 
-msgctxt "#31344"
-msgid "ClearLogo"
-msgstr "ClearLogo"
-
 msgctxt "#31345"
 msgid "Texture/Icon on infopage"
 msgstr "Iconos en página de información"
@@ -1417,17 +1393,9 @@ msgctxt "#31350"
 msgid "Record Label Icons"
 msgstr "Iconos de sello discográfico"
 
-msgctxt "#31351"
-msgid "Show scrollbar"
-msgstr "Mostrar barra de desplazamiento"
-
 msgctxt "#31352"
 msgid "Switch to full screen mode when music starts playing"
 msgstr "Cambiar a modo pantalla completa cuando la música comience a reproducirse"
-
-msgctxt "#31353"
-msgid "Hide lyrics contrast optimization"
-msgstr "Ocultar optimización de contraste para letras de canciones"
 
 msgctxt "#31354"
 msgid "Animate fanart/slideshow"
@@ -1667,7 +1635,7 @@ msgstr " - Pantalla completa"
 
 msgctxt "#31413"
 msgid "Weather location"
-msgstr "Ubicación para clima"
+msgstr "Ubicación para meteorología"
 
 msgctxt "#31414"
 msgid "Widget 1"
@@ -1772,10 +1740,6 @@ msgstr "Cartel de Género"
 msgctxt "#31439"
 msgid "Chapter markers"
 msgstr "Marcas de capítulos"
-
-msgctxt "#31440"
-msgid "Audio data"
-msgstr "Datos de audio"
 
 msgctxt "#31441"
 msgid "RottenTomatoes & Metacritic"
@@ -2481,17 +2445,81 @@ msgctxt "#31658"
 msgid "Now playing"
 msgstr "Reproduciendo ahora"
 
-msgctxt "#31659"
-msgid "On up, show player controls"
-msgstr "Al ir arriba, mostrar controles del reproductor"
-
-msgctxt "#31661"
-msgid "On right, show player controls"
-msgstr "Al ir a la derecha, mostrar controles del reproductor"
-
 msgctxt "#31663"
 msgid "Now playing..."
-msgstr ""
+msgstr "Reproduciendo..."
+
+msgctxt "#31664"
+msgid "User rating overrides"
+msgstr "Sobreescritura de valoraciones de usuario"
+
+msgctxt "#31666"
+msgid "Star rating and value"
+msgstr "Valoración por estrellas y valores"
+
+msgctxt "#31667"
+msgid "Animated artwork"
+msgstr "Arte animado"
+
+msgctxt "#31668"
+msgid "Path to additional animated posters"
+msgstr "Ruta a los cartéles animados adicionales"
+
+msgctxt "#31670"
+msgid "Show player controls"
+msgstr "Mostrar controles del reproductor"
+
+msgctxt "#31671"
+msgid "On right"
+msgstr "A la derecha"
+
+msgctxt "#31672"
+msgid "On up"
+msgstr "Arriba"
+
+#~ msgctxt "#31179"
+#~ msgid "Show clearlogo"
+#~ msgstr "Mostrar clearlogo"
+
+#~ msgctxt "#31306"
+#~ msgid "Global options"
+#~ msgstr "Opciones globales"
+
+#~ msgctxt "#31329"
+#~ msgid "ClearArt"
+#~ msgstr "ClearArt"
+
+#~ msgctxt "#31344"
+#~ msgid "ClearLogo"
+#~ msgstr "ClearLogo"
+
+#~ msgctxt "#31351"
+#~ msgid "Show scrollbar"
+#~ msgstr "Mostrar barra de desplazamiento"
+
+#~ msgctxt "#31353"
+#~ msgid "Hide lyrics contrast optimization"
+#~ msgstr "Ocultar optimización de contraste para letras de canciones"
+
+#~ msgctxt "#31440"
+#~ msgid "Audio data"
+#~ msgstr "Datos de audio"
+
+#~ msgctxt "#31659"
+#~ msgid "On up, show player controls"
+#~ msgstr "Al ir arriba, mostrar controles del reproductor"
+
+#~ msgctxt "#31661"
+#~ msgid "On right, show player controls"
+#~ msgstr "Al ir a la derecha, mostrar controles del reproductor"
+
+#~ msgctxt "#31069"
+#~ msgid "Plot-align: left"
+#~ msgstr "Alinear argumento: izquierda"
+
+#~ msgctxt "#31070"
+#~ msgid "Hide votes"
+#~ msgstr "Ocultar votos"
 
 #~ msgctxt "#31055"
 #~ msgid "In Progress"
