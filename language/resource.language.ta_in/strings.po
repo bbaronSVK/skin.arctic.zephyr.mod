@@ -2476,3 +2476,11 @@ msgstr ""
 msgctxt "#31672"
 msgid "On up"
 msgstr ""
+
+msgctxt "#31673"
+msgid "Show clearart"
+msgstr ""
+
+msgctxt "#31674"
+msgid "Critics consensus"
+msgstr ""
