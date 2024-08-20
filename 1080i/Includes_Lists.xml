@@ -270,6 +270,7 @@
             <control type="fixedlist" id="$PARAM[controlid]">
                 <visible allowhiddenfocus="true">!Container($PARAM[controlid]).IsUpdating</visible>
                 <visible>$PARAM[visi]</visible>
+                <animation effect="fade" start="100" end="0" time="0" delay="0" condition="[[Window.IsVisible(script-wikipedia.xml) | Window.IsVisible(DialogBusy.xml)] + !Skin.HasSetting(hidebutton.video.wiki)]">Conditional</animation>
                 <include>Animation.FadeOutDialogInfo</include>
                 <include>Animation.FadeInDialogWIP</include>
                 <bottom>$PARAM[listbottom]</bottom>
@@ -501,7 +502,7 @@
                     <top>-119</top>
                     <right>0</right>
                     <bottom>71</bottom>
-                    <texture colordiffuse="Box2" border="4" background="true">common/box21.png</texture>
+                    <texture colordiffuse="Box2" border="4" background="true" infill="false">common/box21.png</texture>
                 </control>
                 <control type="group">
                     <left>-7</left>

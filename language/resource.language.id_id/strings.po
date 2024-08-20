@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: XBMC Skins\n"
 "Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-05-14 07:14+0000\n"
+"PO-Revision-Date: 2023-10-28 00:11+0000\n"
 "Last-Translator: Christian Gade <gade@kodi.tv>\n"
 "Language-Team: Indonesian <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-arctic-zephyr-mod/id_id/>\n"
 "Language: id_id\n"
@@ -15,43 +15,43 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.12.2\n"
+"X-Generator: Weblate 5.1\n"
 
 msgctxt "#31000"
 msgid "Limit number of items in widget"
-msgstr ""
+msgstr "Batasi jumlah item dalam widget"
 
 msgctxt "#31001"
 msgid "Backup / Restore"
-msgstr ""
+msgstr "Cadangan/Pulihkan"
 
 msgctxt "#31002"
 msgid "Animated posters"
-msgstr ""
+msgstr "Poster beranimasi"
 
 msgctxt "#31003"
 msgid "Animated fanarts"
-msgstr ""
+msgstr "Fanart beranimasi"
 
 msgctxt "#31004"
 msgid "Show discart (fanart views)"
-msgstr ""
+msgstr "Tampilkan discart (tampilan fanart)"
 
 msgctxt "#31005"
 msgid "Alternate case (fanart views)"
-msgstr ""
+msgstr "Kasus alternatif (tampilan fanart)"
 
 msgctxt "#31006"
 msgid "Alternate status-overlays (fanart views)"
-msgstr ""
+msgstr "Hamparan status alternatif (tampilan fanart)"
 
 msgctxt "#31007"
 msgid "Title-overlays (symbols-view, deprecated)"
-msgstr ""
+msgstr "Hamparan judul (tampilan simbol, tidak digunakan lagi)"
 
 msgctxt "#31008"
 msgid "Show progress graphic"
-msgstr ""
+msgstr "Tampilkan grafik kemajuan"
 
 msgctxt "#31009"
 msgid "Scroll entire page"
@@ -111,7 +111,7 @@ msgstr ""
 
 msgctxt "#31023"
 msgid "Awards"
-msgstr ""
+msgstr "Penghargaan"
 
 msgctxt "#31024"
 msgid "Show clearlogo left bottom position (classic view only)"
@@ -167,7 +167,7 @@ msgstr ""
 
 msgctxt "#31037"
 msgid "Extended Info"
-msgstr ""
+msgstr "Info Lanjutan"
 
 msgctxt "#31038"
 msgid "Hide filename and path"
@@ -207,7 +207,7 @@ msgstr ""
 
 msgctxt "#31047"
 msgid "Random Movies"
-msgstr ""
+msgstr "Film Acak"
 
 msgctxt "#31048"
 msgid "In Progress Movies"
@@ -219,15 +219,15 @@ msgstr "Film Berperingkat Teratas"
 
 msgctxt "#31050"
 msgid "Top 250 Movies"
-msgstr ""
+msgstr "250 Film Teratas"
 
 msgctxt "#31051"
 msgid "Unwatched Movies"
-msgstr ""
+msgstr "Film yang Belum Ditonton"
 
 msgctxt "#31052"
 msgid "Movie Sets"
-msgstr ""
+msgstr "Set Film"
 
 msgctxt "#31053"
 msgid "New Tv Shows"
@@ -255,15 +255,15 @@ msgstr ""
 
 msgctxt "#31060"
 msgid "Random Episodes"
-msgstr ""
+msgstr "Episode Acak"
 
 msgctxt "#31061"
 msgid "Unwatched Episodes"
-msgstr ""
+msgstr "Episode yang Belum Ditonton"
 
 msgctxt "#31062"
 msgid "In Progress Episodes"
-msgstr ""
+msgstr "Episode Sedang Berlangsung"
 
 msgctxt "#31063"
 msgid "Top Rated Episodes"
@@ -287,7 +287,7 @@ msgstr "Album Acak"
 
 msgctxt "#31068"
 msgid "Random Artists"
-msgstr ""
+msgstr "Artis Acak"
 
 msgctxt "#31071"
 msgid "Show fanart/landscape view"
@@ -583,7 +583,7 @@ msgstr ""
 
 msgctxt "#31144"
 msgid "Widgets"
-msgstr ""
+msgstr "Widget"
 
 msgctxt "#31145"
 msgid "Show weather"
@@ -595,7 +595,7 @@ msgstr ""
 
 msgctxt "#31147"
 msgid "Extra Info"
-msgstr ""
+msgstr "Info Ekstra"
 
 msgctxt "#31148"
 msgid "Wrap list"
@@ -727,7 +727,7 @@ msgstr ""
 
 msgctxt "#31181"
 msgid "Similar to"
-msgstr ""
+msgstr "Serupa dengan"
 
 msgctxt "#31182"
 msgid "Fanart of"
@@ -819,7 +819,7 @@ msgstr ""
 
 msgctxt "#31204"
 msgid "Similar to"
-msgstr ""
+msgstr "Serupa dengan"
 
 msgctxt "#31205"
 msgid "Released by"
@@ -851,11 +851,11 @@ msgstr ""
 
 msgctxt "#31212"
 msgid "Airing"
-msgstr ""
+msgstr "Mengudara"
 
 msgctxt "#31213"
 msgid "Today"
-msgstr ""
+msgstr "Hari Ini"
 
 msgctxt "#31214"
 msgid "Show plot"
@@ -883,7 +883,7 @@ msgstr ""
 
 msgctxt "#31220"
 msgid "Next Aired"
-msgstr ""
+msgstr "Tayang Berikutnya"
 
 msgctxt "#31221"
 msgid "Studio"
@@ -911,7 +911,7 @@ msgstr ""
 
 msgctxt "#31227"
 msgid "Crew"
-msgstr ""
+msgstr "Kru"
 
 msgctxt "#31228"
 msgid "TV Show appearances"
@@ -1003,7 +1003,7 @@ msgstr ""
 
 msgctxt "#31250"
 msgid "Vertical"
-msgstr ""
+msgstr "Vertikal"
 
 msgctxt "#31251"
 msgid "Seasons of"
@@ -1071,7 +1071,7 @@ msgstr "Widget"
 
 msgctxt "#31267"
 msgid "Action"
-msgstr ""
+msgstr "Aksi"
 
 msgctxt "#31268"
 msgid "Label"
@@ -1087,7 +1087,7 @@ msgstr ""
 
 msgctxt "#31271"
 msgid "Single Image"
-msgstr ""
+msgstr "Gambar Tunggal"
 
 msgctxt "#31272"
 msgid "Multi Image"
@@ -1131,7 +1131,7 @@ msgstr ""
 
 msgctxt "#31282"
 msgid "Special Features"
-msgstr ""
+msgstr "Fitur spesial"
 
 msgctxt "#31283"
 msgid "Select artwork"
@@ -1147,7 +1147,7 @@ msgstr ""
 
 msgctxt "#31286"
 msgid "Random Songs"
-msgstr ""
+msgstr "Lagu Acak"
 
 msgctxt "#31287"
 msgid "Modern"
@@ -1215,11 +1215,11 @@ msgstr "OSD Musik"
 
 msgctxt "#31303"
 msgid "Widgets"
-msgstr ""
+msgstr "Widget"
 
 msgctxt "#31304"
 msgid "Views"
-msgstr ""
+msgstr "Tampilan"
 
 msgctxt "#31305"
 msgid "HUBs"
@@ -2163,7 +2163,7 @@ msgstr ""
 
 msgctxt "#31554"
 msgid "HD Movies"
-msgstr ""
+msgstr "Film HD"
 
 msgctxt "#31555"
 msgid "Hide, when not focused"
@@ -2491,4 +2491,128 @@ msgstr ""
 
 msgctxt "#31676"
 msgid "Ratings"
+msgstr ""
+
+msgctxt "#31677"
+msgid "Show detailed info when video starts (in seconds)"
+msgstr ""
+
+msgctxt "#31678"
+msgid "Customized"
+msgstr ""
+
+msgctxt "#31679"
+msgid "Color presets"
+msgstr ""
+
+msgctxt "#31680"
+msgid "Preset"
+msgstr "Presets"
+
+msgctxt "#31681"
+msgid "Sunny pink"
+msgstr ""
+
+msgctxt "#31682"
+msgid "Sky blue"
+msgstr ""
+
+msgctxt "#31683"
+msgid "Fruity orange"
+msgstr ""
+
+msgctxt "#31684"
+msgid "Aqua blue"
+msgstr ""
+
+msgctxt "#31685"
+msgid "Light green"
+msgstr ""
+
+msgctxt "#31686"
+msgid "Steel gray"
+msgstr ""
+
+msgctxt "#31687"
+msgid "Save color configuration"
+msgstr ""
+
+msgctxt "#31688"
+msgid "Overwrite existing color configuration?"
+msgstr ""
+
+msgctxt "#31689"
+msgid "Hide PVR recording dialog"
+msgstr ""
+
+msgctxt "#31690"
+msgid "Player"
+msgstr "Pemutar"
+
+msgctxt "#31691"
+msgid "Players"
+msgstr ""
+
+msgctxt "#31692"
+msgid "Local"
+msgstr ""
+
+msgctxt "#31693"
+msgid "Online"
+msgstr ""
+
+msgctxt "#31694"
+msgid "Game studio/flag icons"
+msgstr ""
+
+msgctxt "#31699"
+msgid "Pick a color..."
+msgstr ""
+
+msgctxt "#31700"
+msgid "Set color"
+msgstr ""
+
+msgctxt "#31701"
+msgid "Color palette"
+msgstr ""
+
+msgctxt "#31702"
+msgid "Use thumb for episodes background"
+msgstr ""
+
+msgctxt "#31703"
+msgid "Small landscape"
+msgstr ""
+
+msgctxt "#31704"
+msgid "Small fanart"
+msgstr ""
+
+msgctxt "#31705"
+msgid "Small poster fanart"
+msgstr ""
+
+msgctxt "#31706"
+msgid "Use keyart instead of poster"
+msgstr ""
+
+msgctxt "#31707"
+msgid "Rating stars"
+msgstr ""
+
+msgctxt "#31708"
+msgid "Auto show now playing info after 5 seconds delay if hidden"
+msgstr ""
+
+msgctxt "#31709"
+msgid "Only hide menu items"
+msgstr ""
+
+msgctxt "#31711"
+msgid "Wikipedia"
+msgstr ""
+
+msgctxt "#31718"
+msgid "Sandy yellow"
 msgstr ""

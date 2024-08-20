@@ -3,7 +3,7 @@
 <includes>
 
     <include name="514Content">
-        <visible>Container.Content(artists) | Container.Content(musicvideos) | Container.Content(albums) | Container.Content(movies) | Container.Content(tvshows) | Container.Content(sets) | Container.Content(videos) | Container.Content(episodes)</visible>
+        <visible>Container.Content(artists) | Container.Content(musicvideos) | Container.Content(albums) | Container.Content(movies) | Container.Content(tvshows) | Container.Content(sets) | Container.Content(videos) | Container.Content(episodes) | $EXP[InGameMode]</visible>
         <top>306</top>
         <left>70</left>
         <width>1800</width>
@@ -83,7 +83,8 @@
                     <animation effect="slide" start="0,0" end="-735,0" time="200" condition="Skin.HasSetting(514NoCenter)">Conditional</animation>
                     <visible>!Skin.HasSetting(NotShowClearart514) + $EXP[TitleClearlogoAvailable]</visible>
                     <top>180</top>
-                    <height>102</height>
+                    <height>ClearLogoMaxHeight</height>
+                    <width>ClearLogoMaxWidth</width>
                     <centerleft>50%</centerleft>
                     <aspectratio align="center" aligny="top">keep</aspectratio>
                     <texture background="true">$VAR[ClearLogoTopVar]</texture>

@@ -35,7 +35,7 @@
                     <texturefocus colordiffuse="$VAR[ColorHighlight]" border="5">common/box.png</texturefocus>
                     <texturenofocus colordiffuse="Black12" border="5">common/box.png</texturenofocus>
                     <onclick>Skin.Reset(focuscolor.name)</onclick>
-                    <onclick>Skin.Reset(starscolor.name)</onclick>
+                    <onclick>Skin.Reset(starscolornew.name)</onclick>
                     <onclick>Skin.Reset(ratingcolor.name)</onclick>
                     <onclick>Skin.Reset(squarecolor.name)</onclick>
                     <onclick>Skin.Reset(userratingcolor.name)</onclick>
@@ -46,6 +46,7 @@
                     <onclick>Skin.Reset(selectotherbarcolor.name)</onclick>
                     <onclick>Skin.Reset(focuscolorotherbar.name)</onclick>
                     <onclick>Skin.Reset(kodilogocolorgradient.name)</onclick>
+                    <onclick>Skin.Reset(colorpresent)</onclick>
                     <onclick>close</onclick>
                 </control>
                 <control type="button" id="10">
